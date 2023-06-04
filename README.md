@@ -1,6 +1,6 @@
 # Projeto Formulário de Login
 
-Este é o README para o projeto Formulário de Login, um formulário simples que consiste em campos de entrada para nome de usuário e senha, juntamente com um botão "Entrar". O CSS foi utilizado para estilizar o formulário e torná-lo visualmente atraente.
+O projeto Formulário de Login, é um formulário simples que consiste em campos de entrada para nome de usuário e senha, juntamente com um botão "Entrar". O CSS foi utilizado para estilizar o formulário e torná-lo visualmente atraente.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
